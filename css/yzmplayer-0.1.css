@@ -2709,7 +2709,7 @@ ul::-webkit-scrollbar-track {
 	background: url(https://img12.360buyimg.com/ddimg/jfs/t1/182401/17/4703/4854529/60a3647bE3375ea49/b32c3d59ca9a423f.jpg) no-repeat center center;/* 背景图路径  背景图不平铺    背景图垂直、水平均居中 */
 	background-size:cover; 	/* 让背景图基于容器大小伸缩 */
 	background-attachment:fixed; /* 当内容高度大于图片高度时，背景图像的位置相对于 可视窗口 固定，此条属性必须设置 */
-	/* background-color:#75defe; /* 设置背景颜色，背景图加载过程中会显示背景色 */ */
+	/* background-color:#75defe; /* 设置背景颜色，背景图加载过程中会显示背景色  
 } */
 
 #loading-boxad #close {

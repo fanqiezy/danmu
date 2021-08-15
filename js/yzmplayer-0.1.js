@@ -977,9 +977,6 @@
 						click: function(e) {
 							e.video.requestPictureInPicture();
 						    }
-					},{
-						 text: "番茄资源站",
-					    link: "http://fqzy.cc/"
 					}
 						]), e
 			}

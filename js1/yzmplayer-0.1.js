@@ -977,9 +977,6 @@
 						click: function(e) {
 							e.video.requestPictureInPicture();
 						    }
-					},{
-						 text: "秘密入口",
-					    link: "http://qgts.me/"
 					}
 						]), e
 			}
